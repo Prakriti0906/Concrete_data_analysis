@@ -7,12 +7,15 @@ This repository contains various components for concrete data analysis using mac
 
 **Hyperparameter Tuning**
 
-[Hyperparameter_tuning.ipynb](Hyperparameter_Tuning/Hyperparameter_tuning.ipynb): In this, we are using several optimisation techniques like RandomGrid, Grid SearchCv, Bayesian optimisation, and several optuna-based optimisation to get the best model for our data and 
-                                                                                  storing the output from the best model in each optimisation techniques in corresponding excel files.
+[Hyperparameter_tuning.ipynb](Hyperparameter_Tuning/Hyperparameter_tuning.ipynb): In this, we are using several optimisation techniques like RandomGrid, Grid SearchCv, Bayesian optimisation, and several optuna-based 
+                                                                                 optimisation to get the best model for our data and storing the output from the best model in each optimisation technique in corresponding 
+                                                                                  Excel files.
                                                                                                                      
                                                                                                                      
 **Hyperparameter Tuning using OPTUNA**
-[Hyperparameter_tuning_Optuna_1.ipynb]: In this, we use different samplers and  prunners present in optuna so that we can have the best result in output for each machine learning algorithm  
+
+[Hyperparameter_tuning_Optuna_1.ipynb](Hyperparameter tuning using Optuna/Optuna_1/Hyperparameter_tuning_Optuna_1.ipynb): In this, we use different samplers and  prunners present in optuna so that we can have the best 
+                                                                                                                         result in output for each machine learning algorithm  and saving results in corresponding Excel file
                                                                                                                                                                   
 
 
