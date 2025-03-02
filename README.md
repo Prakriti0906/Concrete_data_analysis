@@ -14,10 +14,10 @@ This repository contains various components for concrete data analysis using mac
                                                                                                                      
 **Hyperparameter Tuning using OPTUNA**
 
-[Hyperparameter_tuning_Optuna_1.ipynb](Hyperparameter tuning using Optuna/Optuna_1/Hyperparameter_tuning_Optuna_1.ipynb): In this, we use different samplers and  prunners present in optuna so that we can have the best 
-                                                                                                                         result in output for each machine learning algorithm  and saving results in corresponding Excel file
+[Hyperparameter_tuning_Optuna_1.ipynb](Optuna_1/Hyperparameter_tuning_Optuna_1.ipynb): In this, we use different samplers and  prunners present in optuna so that we can have the best result in output for each machine 
+                                                                                       learning algorithm  and saving results in the corresponding Excel file
                                                                                                                                                                   
-
+[Hyperparameter_tuning_Optuna_2.ipynb](Optuna_2/Hyperparameter_tuning_Optuna_2.ipynb): 
 
                                                                                                          
 
