@@ -8,6 +8,10 @@ This repository contains various components for concrete data analysis using mac
 **Hyperparameter Tuning**
 https://github.com/DaneshSelwal/Concrete_data_analysis/blob/main/Hyperparameter_Tuning/Hyperparameter_tuning.ipynb: In this, we are using several optimisation techniques like RandomGrid, Grid SearchCv, Bayesian optimisation, and several optuna-based optimisation to get 
                                                                                                                      the best model for our data and storing the output from best model in each optimisation techniques in corresponding excel files.
+                                                                                                                     
+                                                                                                                     
+**Hyperparameter Tuning using OPTUNA**
+Hyperparameter_tuning_Optuna_1.ipynb
 
 
                                                                                                          
