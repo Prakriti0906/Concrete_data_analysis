@@ -27,12 +27,14 @@ This repository contains various components for concrete data analysis using mac
 
  **PGBM**
  
- [PGBM.ipynb](PGBM_analysis/PGBM.ipynb):
-
+ [PGBM.ipynb](PGBM_analysis/PGBM.ipynb): 
 
  **Probability Distribution**
 
- [Probabilistic_Distributions.ipynb](Probabilistic_Distribution/Probabilistic_Distributions.ipynb):
+ [Probabilistic_Distributions.ipynb](Probabilistic_Distribution/Probabilistic_Distributions.ipynb): In this, we have applied probabilistic distribution over NGB 
+                                                                                                   regressor and the Probabilistic Gradient Boosting model to 
+                                                                                                   give a coverage of 95% using mean and standard deviation, and 
+                                                                                                   the output result is stored in the corresponding Excel file.
 
 
  **Uncertainty Analysis**
