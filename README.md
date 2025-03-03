@@ -22,7 +22,8 @@ This repository contains various components for concrete data analysis using mac
 
 **Model Explanations**
 
- [Model_explanations_ipynb](Model_Explanations/Model_explanations_ipynb):
+ [Model_explanations_ipynb](Model_Explanations/Model_explanations_ipynb): In this, we have used lime and shap to explain the importance of each feature in determining the resulting outcome of different machine 
+                                                                          learning models and explained the consequent output in an interactive visual representation.
 
 
  **PGBM**
