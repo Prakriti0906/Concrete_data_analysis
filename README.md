@@ -44,10 +44,15 @@ This repository contains various components for concrete data analysis using mac
                                                                                         different models and hypertuned them for best parameters, after that, we have tried to increae the  coverage interval  by using 
                                                                                         conformal prediction, weighted average, puncc,  and mapie to increase the  Reliability of our output data on different machine 
                                                                                         learning models and  making coverage value of nearly 90% interval, and the output for different data are displayed on the 
-                                                                                        corresponding model Excel inside [output](Uncertainity_Analysis/output).
+                                                                                        corresponding model Excel inside [output](Analysis_1/output).
                                                                                         .
                                                                                        
 
+
+ [Uncertainity_analysis_2.ipynb](Uncertainity_Analysis/Uncertainity_analysis_2.ipynb): In this, we have further extended the concept of 
+                                                                                       [Uncertainity_analysis_1.ipynb](Uncertainity_Analysis/Uncertainity_analysis_1.ipynb)                                   to machine learning algorithms of **HistGradient Boosting** and **PGBM** 
+                                                                                        model and corresponding outputs are stored in an Excel file in 
+                                                                                        [output](Analysis_2/output).
  
 
 
