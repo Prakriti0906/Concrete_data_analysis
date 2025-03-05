@@ -26,9 +26,6 @@ This repository contains various components for concrete data analysis using mac
                                                                           learning models and explained the consequent output in an interactive visual representation.
 
 
- * **PGBM**
- 
- [PGBM.ipynb](PGBM_analysis/PGBM.ipynb): 
 
  * **Probability Distribution**
 
